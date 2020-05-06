@@ -18,7 +18,7 @@ def set_landmarks(img_gray, img, face, predictor, detector):
 
     # for each landmark, plot and write number
 
-    ##Jump
+    ##Jump rñhjslvhpdvslghslgslh
     factor_j = 0
     jump = False
     distancia_jump = calculateDistance(landmarks.part(41).x,landmarks.part(41).y,landmarks.part(19).x,landmarks.part(19).y)   
