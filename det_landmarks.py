@@ -24,7 +24,7 @@ def set_landmarks(img_gray, img, face, predictor, detector):
     distancia_jump = calculateDistance(landmarks.part(41).x,landmarks.part(41).y,landmarks.part(19).x,landmarks.part(19).y)   
 
 
-    ##fireball
+    ##fireball borjborbhrobhrohb
     factor_f = 0
     fireball = False
     distanica_fireball= calculateDistance(landmarks.part(51).x,landmarks.part(51).y,landmarks.part(57).x,landmarks.part(57).y) 
